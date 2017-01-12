@@ -2,5 +2,5 @@ package main
 
 import (
 	"fmt"
-	"github.com"
+	"github.com/Soyaz/udemyTraining/02_package/stringutil"
 )
